@@ -1,0 +1,17 @@
+Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
+http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
+"Canmore-download-Mon, 04 Nov 2019 10:13:39 +0000.csv"
+
+
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+"10093","NF77SE 3","North Uist, Vallay Strand, Cnoc A'comhdalach","Aisled Roundhouse (Iron Age), Broch (Iron Age)(Possible)","77080","874150","WESTERN ISLES","INVERNESS-SHIRE","NORTH UIST","NF 7708 7415","http://canmore.org.uk/site/10093",
+"10337","NF87NW 5","North Uist, Machair Leathann","Aisled Roundhouse (Iron Age)","80110","875330","WESTERN ISLES","INVERNESS-SHIRE","NORTH UIST","NF 8011 7533","http://canmore.org.uk/site/10337",
+"9855","NF72SW 1","South Uist, Kilpheder, Bruthach An Tionail Ard","Aisled Roundhouse (Iron Age), Midden(S) (Period Unassigned), Brooch","73260","820200","WESTERN ISLES","INVERNESS-SHIRE","SOUTH UIST","NF 7326 2020","http://canmore.org.uk/site/9855",
+"9957","NF75NE 1","Benbecula Aerodrome","Aisled Roundhouse(S) (Iron Age), Midden (Period Unassigned), Souterrain (Prehistoric), Wheelhouse (Iron Age), Pin(S), Unidentified Pottery","78700","856610","WESTERN ISLES","INVERNESS-SHIRE","SOUTH UIST","NF 7870 5661","http://canmore.org.uk/site/9957",
+"10071","NF77NW 5","North Uist, Foshigary","Aisled Roundhouse(S) (Iron Age), Souterrain (Prehistoric), Wheelhouse (Iron Age), Unidentified Pottery","74240","876380","WESTERN ISLES","INVERNESS-SHIRE","NORTH UIST","NF 7424 7638","http://canmore.org.uk/site/10071",
+"10095","NF77SE 5","North Uist, Vallay Strand, Eileann Maleit","Aisled Roundhouse (Iron Age), Dun (Period Unassigned), Wheelhouse (Iron Age)","77480","873880","WESTERN ISLES","INVERNESS-SHIRE","NORTH UIST","NF 7748 7388","http://canmore.org.uk/site/10095",
+"7503","ND02NE 2","Berriedale Water","Aisled Building (Iron Age), Aisled Roundhouse(S) (Iron Age), Settlement(S) (Period Unassigned)","308800","929400","HIGHLAND","CAITHNESS","LATHERON","ND 088 294","http://canmore.org.uk/site/7503",
+"7511","ND02NW 1","Wagmore Rigg","Aisled Roundhouse(S) (Iron Age)","300300","926140","HIGHLAND","CAITHNESS","LATHERON","ND 0030 2614","http://canmore.org.uk/site/7511",
+"7516","ND02NW 2","Morven","Aisled Building(S) (Iron Age), Aisled Roundhouse (Iron Age)","301300","927400","HIGHLAND","CAITHNESS","LATHERON","ND 013 274","http://canmore.org.uk/site/7516",
+"10078","NF77SE 11","North Uist, Ben Risary, Buaile Risary","Aisled Roundhouse (Iron Age)(Possible), Dun (Period Unassigned), Shieling Hut(S) (Post Medieval), Rivet(S) (Iron)","76670","872910","WESTERN ISLES","INVERNESS-SHIRE","NORTH UIST","NF 7667 7291","http://canmore.org.uk/site/10078",
+"10096","NF77SE 6","North Uist, Garry Iochdrach","Aisled Roundhouse (Iron Age), Coin (Roman)","77230","874270","WESTERN ISLES","INVERNESS-SHIRE","NORTH UIST","NF 7723 7427","http://canmore.org.uk/site/10096",

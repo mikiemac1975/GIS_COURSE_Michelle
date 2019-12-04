@@ -1,4 +1,4 @@
-Cat_No,Trench,Context,Allison use category,use_cat,Material,Material detail original,Type original,Sub-type,Camp,Building,gender original,gender,Length (cm),Rim diameter (cm),Height (cm),Diameter (cm)
+Cat_No,Trench,Context,Allison use category,use_cat,Material,Material detail original,Type original,Sub-type,Camp,Building,gender original,gender,Length (cm),Rim diameter (cm),Height (cm),Diameter (cm),
 B0019,1.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA  2, Hakenfibel",,NW area,male?,ZMa,2.5 (preserved) ,,1.8,
 B0051,1.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA 5.2, Aucissafibel",,NW area,male,Ma,4.5,,2.5,
 B0161,1.0000000000,surface,dress-combat equipment,DE,Bronze,,Belt plates,,,NW area,male,Ma,4.1,,,
@@ -42,7 +42,7 @@ E0017,24.0000000000,"burnt layer l, in trench extension",tableware and serving?/
 B0460,24.0000000000,surface,dress?,ZD,Bronze,,Rings,,,Neronian Fortifications,male?/female?,ZMa_Fe,,,,2
 E0415,25.0000000000,"burnt layer 1, upper",gaming,G,Glass,Marbled,Counters,,,Neronian Fortifications,N/A,U,,,0.6,1.1
 B0159,25.0000000000,"burnt layer 2, lower  ",dress-combat equipment,DE,Bronze,,"Armour, hooks",,,Neronian Fortifications,male,Ma,2.5,,,
-E0121,25.0000000000,trench A,tableware and serving?/toilet?-drinking?,ZTS_TD,Glass,Überfang,"Bowls, small",,,Neronian Fortifications,N/A,U,,10,,
+E0121,25.0000000000,trench A,tableware and serving?/toilet?-drinking?,ZTS_TD,Glass,Ãœberfang,"Bowls, small",,,Neronian Fortifications,N/A,U,,10,,
 E0416,25.0000000000,trench A,gaming,G,Glass,Coloured,Counters,,,Neronian Fortifications,N/A,U,,,0.6,1.7
 E0417,25.0000000000,trench A,gaming,G,Glass,Coloured,Counters,,,Neronian Fortifications,N/A,U,,,0.5,1.4
 B0004,26.0000000000,"burnt layer 2, lower  ",dress,D,Bronze,,Fibulae,"RIHA 1.6.2 , Soldatenfibel",Claudian-Neronian,Neronian Fortifications,male,Ma,4.5,,1.6,
@@ -107,7 +107,7 @@ E0125,105.0000000000,surface,tableware and serving?/toilet?-drinking?,ZTS_TD,Gla
 B0016,113.0000000000,east trench,dress,D,Bronze,,Fibulae,"RIHA 1.7, Spiralfibel",Claudian-Neronian,east gateway,female,Fe,4.7,,2.3,
 B0024,115.0000000000,"pits, in the infilled building trenches of the fort of the 5th und 15th legions ",dress,D,Bronze,,Fibulae,"RIHA 2.3.2, Augenfibel",,Hanel plan 1 (I9) ,male?,ZMa,4.7,,2.3,
 E0050,119.0000000000,surface,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Dishes/bowls,,,Hanel plan 1 (C9-10) ,N/A,U,,,,
-B0109,136.0000000000,east street trench,dress,D,Bronze,,Fibulae,"RIHA 5.7.10, Durchbrochene Flügelfibel",Neronian,south gateway,male?/female?,ZMa_Fe,3 (preserved) ,,,
+B0109,136.0000000000,east street trench,dress,D,Bronze,,Fibulae,"RIHA 5.7.10, Durchbrochene FlÃ¼gelfibel",Neronian,south gateway,male?/female?,ZMa_Fe,3 (preserved) ,,,
 B0146,140.0000000000,pit l,dress-combat equipment,DE,Bronze,,"Armour, buckles",,,Neronian Fortifications,male,Ma,6 (preserved),,,
 B0090,145.0000000000,pit 4  ,dress,D,Bronze,,Fibulae,"RIHA 5.2.4, Aucissafibel",Claudian-Neronian?,east gateway,male,Ma,4.8,,2.4,
 C8183,145.0000000000,pit 41 ,toilet?,ZT,Cer_Ut,,Unguentaria,Ha 30 ,A-C(?),east gateway,female?,Zfe,,,,
@@ -125,7 +125,7 @@ B0113,153.0000000000,level 25  ,dress,D,Bronze,,Fibulae,,,Fortline G,male,Ma,,,,
 B0060,153.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA 5.2.1, Aucissafibel",,Fortline G,male,Ma,4.8 (preserved),,2.1,
 B0954,154.0000000000,pit under trenches of fort of 5th and 15th legion ,weighing and measuring,WM,Iron,,Compass,,A-C,Neronian Fortifications-Fortline G,male?,ZMa,c. 8 (preserved),,,
 E0389,154.0000000000,"surface, in Hartmannsch fields",dress,D,Glass,,Medallions,,,Neronian Fortifications-Fortline G,male?/female?,ZMa_Fe,2.5,,,
-B0029,155.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA 2.5.1, Spiralbügelfibel",,Fortline G,male?,ZMa,4.2 (preserved),,2.2,
+B0029,155.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA 2.5.1, SpiralbÃ¼gelfibel",,Fortline G,male?,ZMa,4.2 (preserved),,2.2,
 B0118,155.0000000000,surface,combat equipment,E,Bronze,,Javelins,,,Fortline G,male,Ma,8.1,,,1.9
 B0231,155.0000000000,surface,dress?/combat equipment?/horse equipment?,ZD_E_H,Bronze,,Pendants,,,Fortline G,male?/female?,ZMa_Fe,6.7 (preserved) ,,,
 B0292,155.0000000000,surface,weighing and measuring,WM,Bronze,,Weights,,,Fortline G,male?,ZMa,3.9,,3.3,
@@ -134,7 +134,7 @@ E0018,158.0000000000,trenches,tableware and serving?/toilet?,ZTS_T,Glass,Marbled
 B0061,167.0000000000,to the level ground,dress,D,Bronze,,Fibulae,"RIHA 5.2.1, Aucissafibel",,Fortline G,male,Ma,4 (preserved) ,,2.1,
 B0918,174.0000000000,trench A,agricultural,A,Iron,,Hoes,,,Neronian Fortifications,male,Ma,14 (preserved) ,,,
 B0062,181.0000000000,in the street,dress,D,Bronze,,Fibulae,"RIHA 5.2.1, Aucissafibel",,east gateway,male,Ma,4.3 (preserved),,2.5,
-B0030,190.0000000000,pit 2  ,dress,D,Bronze,,Fibulae,"RIHA 2.5.1 , Spiralbügelfibel",,Fortline C,male?,ZMa,3.4 (preserved) ,,2.2,
+B0030,190.0000000000,pit 2  ,dress,D,Bronze,,Fibulae,"RIHA 2.5.1 , SpiralbÃ¼gelfibel",,Fortline C,male?,ZMa,3.4 (preserved) ,,2.2,
 B0293,203.0000000000,pit 1  ,weighing and measuring,WM,Bronze,,Weights,,,V,male?,ZMa,,,,
 B0155,212.0000000000,"east gateway, coin pit",dress?/combat equipment?/horse equipment?,ZD_E_H,Bronze,,Buckles,,A-C(?),Fortline C,male?,ZMa,,,,
 J0009,212.0000000000,"east gateway, coin pit",dress?,ZD,Bone,,Discs,,A-C(?),Fortline C,female?,Zfe,,, ,1.3
@@ -162,7 +162,7 @@ B0744,230.0000000000,surface,combat equipment,E,Iron,,Javelins,,,Fortline C,male
 B0876,230.0000000000,surface,stone and metalworking,SM,Iron,,Crowbars,,,Fortline C,male,Ma,,,,
 B0032,234.0000000000,pit above palisade,dress,D,Bronze,,Fibulae,"RIHA 2.6, Knickfibel",K(?),Fortline C,male?,ZMa,3.6 (preserved) ,,2.3,
 B0833,234.0000000000,pit above palisade,combat equipment,E,Iron,,Arrowheads,,K(?),Fortline C,male,Ma,,,,
-E0097,234.0000000000,pit above palisade,tableware and serving?/toilet?-drinking?,ZTS_TD,Glass,Überfang,"Bowls, small",,K(?),Fortline C,N/A,U,,10,,
+E0097,234.0000000000,pit above palisade,tableware and serving?/toilet?-drinking?,ZTS_TD,Glass,Ãœberfang,"Bowls, small",,K(?),Fortline C,N/A,U,,10,,
 B0934,236.0000000000,"pit 3, to west",cutting and sharpening,CS,Iron,,Knives,,,Fortline C,male?,ZMa,9.6 (preserved),,,
 B0018,236.0000000000,"pit, to west  ",dress,D,Bronze,,Fibulae,RIHA  2,,Fortline C,male?,ZMa,2.2 (preserved) ,,1.5 (preserved)  ,
 B0261,239.0000000000,surface,toilet,T,Bronze,,Mirrors,,,Fortline A,male?/female?,ZMa_Fe,4 (preserved) ,,,
@@ -446,12 +446,12 @@ E0402,473.0000000000,pit 1,dress?/horse equipment?,ZD_H,Glass,,"Beads, melon",,,
 E0403,473.0000000000,pit 1,dress?/horse equipment?,ZD_H,Glass,,"Beads, melon",,,via principalis west,female?,Zfe,,,1.4,1.6
 B0002,475.0000000000,,dress,D,Bronze,,Fibulae,Fibelfrg.,Neronian,via principalis west,male,Ma,2.2 (preserved) ,,,
 B0087,475.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 5.2.3, Aucissafibel",Neronian,via principalis west,male,Ma,2.2 (preserved) ,,,
-B0108,475.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 5.7.3, Scharnierflügelfibel",Neronian,via principalis west,male?/female?,ZMa_Fe,6.2,,1.6,
+B0108,475.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 5.7.3, ScharnierflÃ¼gelfibel",Neronian,via principalis west,male?/female?,ZMa_Fe,6.2,,1.6,
 B0173,475.0000000000,,dress-combat equipment,DE,Bronze,,Belt plates,,Neronian,via principalis west,male,Ma,2 (preserved)  ,,,
 B0186,475.0000000000,,dress-combat equipment,DE,Bronze,,Belt plates,,Neronian,via principalis west,male,Ma,4.4,,,
 E0102,475.0000000000,,tableware and serving?/toilet?-drinking?,ZTS_TD,Glass,Natural,"Bowls, small",,Neronian,via principalis west,N/A,U,,7,,
 I0012,475.0000000000,,cutting and sharpening,CS,Stone,,Whetstones,,Neronian,via principalis west,male?,ZMa,28.3,, ,
-B0031,477.0000000000,in foundations,dress,D,Bronze,,Fibulae,"RIHA 2.5.1 , Spiralbügelfibel",,H,male?,ZMa,5,,2.3,
+B0031,477.0000000000,in foundations,dress,D,Bronze,,Fibulae,"RIHA 2.5.1 , SpiralbÃ¼gelfibel",,H,male?,ZMa,5,,2.3,
 B0952,477.0000000000,in foundations,writing,W,Iron,,Styli,,,H,male?,ZMa,12.4,,,
 B0075,478.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 5.2.1, Aucissafibel",,"street, H-A",male,Ma,5,,2.3,
 B0194,478.0000000000,,dress?/combat equipment?/horse equipment?,ZD_E_H,Bronze,,Pendants,,,"street, H-A",male?/female?,ZMa_Fe,3.1,,2.9,
@@ -473,7 +473,7 @@ B1763,522.0000000000,surface,combat equipment ,E,Lead,,Sling shot,,,H,male,Ma,3.
 B0111,524.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA 8.1.2, Omegafibel",,H,male,Ma,3.3,,,
 B1771,525.0000000000,surface,weighing and measuring,WM,Lead,,Weights,,,H,male?,ZMa,4.5,,,3.9
 B0205,529.0000000000,surface,dress-combat equipment?/horse equipment?,ZD_E_H,Bronze,,Fasteners,,,J,male?,ZMa,,,,
-B0045,531.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA 4, Spiralhülsenfibel",,J,male?/female?,ZMa_Fe,3.7 (preserved) ,,,
+B0045,531.0000000000,surface,dress,D,Bronze,,Fibulae,"RIHA 4, SpiralhÃ¼lsenfibel",,J,male?/female?,ZMa_Fe,3.7 (preserved) ,,,
 B1772,531.0000000000,surface,weighing and measuring,WM,Lead,,Weights,,,J,male?,ZMa,2.2,,,1.7
 B0199,532.0000000000,surface,dress-combat equipment?/horse equipment?,ZD_E_H,Bronze,,Fasteners,,,J,male?,ZMa,7.2 (preserved) ,,,
 B0489,533.0000000000,surface,dress?,ZD,Bronze,,Rings,,,J,male?/female?,ZMa_Fe,,,,2
@@ -696,7 +696,7 @@ E0072,1106.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Dishe
 F0004,1106.0000000000,,dress,D,Glass_pa,,Finger-rings,Gems,,T,male?/female?,ZMa_Fe,,,,
 E0073,1108.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Dishes/bowls,,,U,N/A,U,,,,
 E0198,1108.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Millifiori,Indeterminate fragments,,,U,N/A,U,,,,
-B0048,1109.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 4.2, Hülsenspiralfibel",,T,male,Ma,3.4 (preserved) ,,c. 1.4  ,
+B0048,1109.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 4.2, HÃ¼lsenspiralfibel",,T,male,Ma,3.4 (preserved) ,,c. 1.4  ,
 B0949,1109.0000000000,,cutting and sharpening,CS,Iron,,Knives,,,T,male?,ZMa,10.2 (preserved) ,,,
 E0449,1109.0000000000,,gaming,G,Glass,Coloured,Counters,,,T,N/A,U,,,0.7,1.5
 E0199,1110.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Millifiori,Indeterminate fragments,,,T,N/A,U,,,,
@@ -725,7 +725,7 @@ B0104,1142.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 5.2.4, Aucissafibel",,U,mal
 B0120,1147.0000000000,,combat equipment,E,Bronze,,Javelins,,,W,male,Ma,5,,,
 B0511,1167.0000000000,,dress?,ZD,Bronze,,Rings,,,W,male?/female?,ZMa_Fe,,,,2
 E0213,1185.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Indeterminate fragments,,,via principalis west,N/A,U,,,,
-B0850,1187.0000000000,über der Grube A unter der Ziegelschicht ,combat equipment,E,Iron,,Shields,,,Y,male,Ma,,,,
+B0850,1187.0000000000,Ã¼ber der Grube A unter der Ziegelschicht ,combat equipment,E,Iron,,Shields,,,Y,male,Ma,,,,
 B0011,1187.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 1.6.2 , Soldatenfibel",Claudian-Neronian,Y,male,Ma,4.7 (preserved),,1.5 (preserved) ,
 B0405,1187.0000000000,,dress-combat equipment?/furniture?,ZD_E_F,Bronze,,Drop handles,,,Y,male?,ZMa,10.2,,4.2,
 B0845,1187.0000000000,,combat equipment,E,Iron,,Cut-and-thrust weapons,,Neronian,Y,male,Ma,45,,,lip: 3 
@@ -771,7 +771,7 @@ B0794,1204.0000000000,,combat equipment,E,Iron,,Javelins,,,Z,male,Ma,,,,
 E0075,1204.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Dishes/bowls,,,Z,N/A,U,,,,
 B0128,1204.1000000000,east end,combat equipment,E,Bronze,,Swords and sheaths,,,Z,male,Ma,10,,,
 B0740,1204.1000000000,west end in street,combat equipment,E,Iron,,Javelins,,,Z,male,Ma,10.1,,,
-B0046,1204.1000000000,,dress,D,Bronze,,Fibulae,"RIHA 4, Spiralhülsenfibel",,Z,male?/female?,ZMa_Fe,4.6 (preserved),,c. 1,
+B0046,1204.1000000000,,dress,D,Bronze,,Fibulae,"RIHA 4, SpiralhÃ¼lsenfibel",,Z,male?/female?,ZMa_Fe,4.6 (preserved),,c. 1,
 E0034,1213.1000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Marbled,Dishes/bowls,,Claudian-Neronian,Z,N/A,U,,,,
 E0076,1215.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Dishes/bowls,,,Y,N/A,U,,,,
 B0110,1217.0000000000,,dress,D,Bronze,,Belt attachments,"RIHA 7.4.2, Scharnierfibel",,Z,female,Fe,2.1,,0.6,
@@ -782,12 +782,12 @@ E0214,1221.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Indet
 C8242,1235.0000000000,,religion?/tableware and serving?,ZR_ZTS,Cer_Ut,,"Vases, cult",,,Z,child?,ZCh,,,,
 B1802,1243.0000000000,,weighing and measuring,WM,Lead,,Weights,,,Y,male?,ZMa,,,2.7,6.1
 E0035,1244.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Marbled,Dishes/bowls,,Claudian-Neronian,via principalis west,N/A,U,,,,
-B0028,1251.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 2.5.2, Spiralbügelfibel",Neronian(?),Z,male?,ZMa,5.3,,2,
+B0028,1251.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 2.5.2, SpiralbÃ¼gelfibel",Neronian(?),Z,male?,ZMa,5.3,,2,
 E0077,1259.0000000000,,tableware and serving?/toilet?,ZTS_T,Glass,Coloured,Dishes/bowls,,,Z,N/A,U,,,,
 E0109,1260.0000000000,,tableware and serving?/toilet?-drinking?,ZTS_TD,Glass,Natural,"Bowls, small",,,Z,N/A,U,,,,
 B0001,1267.0000000000,,dress,D,Bronze,,Finger-rings,,,Z,male?/female?,ZMa_Fe,,,,1.9
 B0013,1267.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 1.6.2, Soldatenfibel",Claudian-Neronian,Z,male,Ma,3.9 (preserved) ,,c. 1.9 ,
-B0047,1267.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 4, Spiralhülsenfibel",,Z,male,Ma,c. 5,,,
+B0047,1267.0000000000,,dress,D,Bronze,,Fibulae,"RIHA 4, SpiralhÃ¼lsenfibel",,Z,male,Ma,c. 5,,,
 B0310,1267.0000000000,,writing,W,Bronze,,Inkwells,,,Z,male?,ZMa,,,,4
 B0513,1267.0000000000,,dress?,ZD,Bronze,,Rings,,,Z,female?/child?,Zfe_Ch, ,,,
 B0751,1267.0000000000,,combat equipment,E,Iron,,Javelins,,,Z,male,Ma,11.6,,,
@@ -891,7 +891,7 @@ E0447,2000.0000000000,surface,gaming,G,Glass,Coloured,Counters,,,,N/A,U,,,0.6,1.
 E0451,2000.0000000000,surface,gaming,G,Glass,Coloured,Counters,,,,N/A,U,,,0.6,1.2
 E0452,2000.0000000000,surface,gaming,G,Glass,Coloured,Counters,,,,N/A,U,,,0.7,1.4
 F0003,2000.0000000000,surface (acquired),dress,D,Stone,Cornelian,Finger-rings,Gems,,,male?/female?,ZMa_Fe,1.1 x 1,,,
-E0031,2000.0000000000,surface (Boßmann field),tableware and serving?/toilet?,ZTS_T,Glass,Marbled,Dishes/bowls,,Claudian-Neronian,,N/A,U,,10,,
+E0031,2000.0000000000,surface (BoÃŸmann field),tableware and serving?/toilet?,ZTS_T,Glass,Marbled,Dishes/bowls,,Claudian-Neronian,,N/A,U,,10,,
 F0002,2000.0000000000,"surface; excavations in area in 1925, near dump",dress,D,Glass_pa,,Finger-rings,Gems,,,male?/female?,ZMa_Fe,1 x 0.9,,,
 B0177,2000.0000000000,,dress-combat equipment,DE,Bronze,,Belt plates,,,,male,Ma,5.6,,,
 B0757,2000.0000000000,,combat equipment,E,Iron,,Javelins,,,,male,Ma,18.6; 19.7; 11.6 ,,,lip: 1.9
